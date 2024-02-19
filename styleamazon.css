@@ -1,0 +1,22 @@
+*{
+   
+    color: white;
+}
+#nav{
+    height: 60px;
+    background-color: black;
+    padding-top: 10px;
+}
+button{
+    background-color: yellow;
+    
+}
+.a{
+    color: yellow;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    
+}

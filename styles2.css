@@ -1,0 +1,26 @@
+body{
+    background-image: url(pexels-pixabay-35857.jpg);
+    
+}
+.reg{
+    background-color: aqua;
+}
+.abc{ 
+    height: 250px;
+    width:  330px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: aliceblue;
+    text-align: justify;
+    padding-top: 25px;
+    padding-left: 25px;
+    
+
+ }
+ #aaa{
+    padding-left: 35%;
+    padding-right: 30%;
+ }

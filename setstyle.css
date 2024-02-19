@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    margin: 100px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+#password{
+    margin-top: 15px;
+}
+#submit{
+    margin-top: 15px;
+    background-color: chartreuse;
+}
